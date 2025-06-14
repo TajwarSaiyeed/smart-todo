@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://smart-todo-canvas.vercel.app/sitemap.xml
+
+# Block AI crawlers if desired (optional)
+# User-agent: GPTBot
+# Disallow: /
+
+# User-agent: Google-Extended
+# Disallow: /
