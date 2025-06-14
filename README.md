@@ -1,6 +1,6 @@
 # Smart Todo Canvas
 
-![Smart Todo Canvas](./public/readme.png)
+![Smart Todo Canvas](./public/Ai-Powered-Smart-Todo.png)
 
 A modern, visual todo management application that transforms traditional task lists into an interactive canvas experience. Organize your tasks with drag-and-drop functionality, AI-powered suggestions, and advanced filtering capabilities.
 
